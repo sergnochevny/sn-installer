@@ -1,0 +1,14 @@
+{
+  "name": "sn-installer",
+  "description": "composer installer",
+  "type": "library",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "sn\\installer\\": ""
+    }
+  }
+}
