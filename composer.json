@@ -1,5 +1,5 @@
 {
-  "name": "sn-installer",
+  "name": "sn/installer",
   "description": "composer installer",
   "type": "library",
   "minimum-stability": "stable",
